@@ -1,0 +1,96 @@
+2019-07-05 11:17:25.710  INFO 15542 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 11:17:33.009  INFO 23084 --- [main] com.example.test.TestApplication         : Starting TestApplication on dwk with PID 23084 (/home/dwk/IdeaProjects/demo/target/classes started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 11:17:33.013  INFO 23084 --- [main] com.example.test.TestApplication         : No active profile set, falling back to default profiles: default
+2019-07-05 11:17:34.427  INFO 23084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-05 11:17:34.459  INFO 23084 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-05 11:17:34.459  INFO 23084 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 11:17:34.550  INFO 23084 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-05 11:17:34.550  INFO 23084 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1409 ms
+2019-07-05 11:17:34.815  INFO 23084 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 11:17:35.053  INFO 23084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-05 11:17:35.057  INFO 23084 --- [main] com.example.test.TestApplication         : Started TestApplication in 2.805 seconds (JVM running for 3.323)
+2019-07-05 11:19:04.364  INFO 23084 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 11:19:04.364  INFO 23084 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-05 11:19:04.376  INFO 23084 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2019-07-05 11:19:04.428  INFO 23084 --- [http-nio-8080-exec-2] com.example.test.ApiTestController       : /api/test param = <DeliverReport>
+</DeliverReport>
+2019-07-05 13:09:03.434  INFO 23084 --- [http-nio-8080-exec-4] com.example.test.ApiTestController       : /api/test param = <DeliverReport>
+</DeliverReport>
+2019-07-05 13:12:43.786  INFO 23084 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:34:30.297  INFO 25642 --- [main] com.example.test.TestApplicationTests    : Starting TestApplicationTests on dwk with PID 25642 (started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 13:34:30.299  INFO 25642 --- [main] com.example.test.TestApplicationTests    : No active profile set, falling back to default profiles: default
+2019-07-05 13:34:31.907  INFO 25642 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:34:32.153  INFO 25642 --- [main] com.example.test.TestApplicationTests    : Started TestApplicationTests in 2.177 seconds (JVM running for 2.853)
+2019-07-05 13:34:32.359  INFO 25642 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:35:17.170  INFO 25735 --- [main] com.example.test.TestApplicationTests    : Starting TestApplicationTests on dwk with PID 25735 (started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 13:35:17.173  INFO 25735 --- [main] com.example.test.TestApplicationTests    : No active profile set, falling back to default profiles: default
+2019-07-05 13:35:18.724  INFO 25735 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:35:18.989  INFO 25735 --- [main] com.example.test.TestApplicationTests    : Started TestApplicationTests in 2.189 seconds (JVM running for 2.889)
+2019-07-05 13:35:19.330  INFO 25735 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:35:33.146  INFO 25807 --- [main] com.example.test.TestApplicationTests    : Starting TestApplicationTests on dwk with PID 25807 (started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 13:35:33.147  INFO 25807 --- [main] com.example.test.TestApplicationTests    : No active profile set, falling back to default profiles: default
+2019-07-05 13:35:34.753  INFO 25807 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:35:35.000  INFO 25807 --- [main] com.example.test.TestApplicationTests    : Started TestApplicationTests in 2.432 seconds (JVM running for 3.326)
+2019-07-05 13:35:35.264  INFO 25807 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:35:42.716  INFO 25878 --- [main] com.example.test.TestApplication         : Starting TestApplication on dwk with PID 25878 (/home/dwk/IdeaProjects/demo/target/classes started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 13:35:42.726  INFO 25878 --- [main] com.example.test.TestApplication         : No active profile set, falling back to default profiles: default
+2019-07-05 13:35:44.182  INFO 25878 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-05 13:35:44.220  INFO 25878 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-05 13:35:44.221  INFO 25878 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 13:35:44.343  INFO 25878 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-05 13:35:44.343  INFO 25878 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1472 ms
+2019-07-05 13:35:44.613  INFO 25878 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:35:44.916  INFO 25878 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-05 13:35:44.926  INFO 25878 --- [main] com.example.test.TestApplication         : Started TestApplication in 2.922 seconds (JVM running for 3.445)
+2019-07-05 13:37:08.287  INFO 25878 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 13:37:08.287  INFO 25878 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-05 13:37:08.300  INFO 25878 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 13 ms
+2019-07-05 13:37:08.327  WARN 25878 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded' not supported]
+2019-07-05 13:37:48.557  WARN 25878 --- [http-nio-8080-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/json;charset=UTF-8' not supported]
+2019-07-05 13:38:11.522  INFO 25878 --- [http-nio-8080-exec-4] com.example.test.ApiTestController       : /api/test param = <DeliverReport>
+</DeliverReport>
+2019-07-05 13:38:47.366  WARN 25878 --- [http-nio-8080-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/json;charset=UTF-8' not supported]
+2019-07-05 13:39:34.738  INFO 26112 --- [main] com.example.test.TestApplicationTests    : Starting TestApplicationTests on dwk with PID 26112 (started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 13:39:34.741  INFO 26112 --- [main] com.example.test.TestApplicationTests    : No active profile set, falling back to default profiles: default
+2019-07-05 13:39:36.351  INFO 26112 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:39:36.630  INFO 26112 --- [main] com.example.test.TestApplicationTests    : Started TestApplicationTests in 2.241 seconds (JVM running for 2.959)
+2019-07-05 13:39:36.850  INFO 26112 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:39:40.577  INFO 25878 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:39:50.187  INFO 26192 --- [main] com.example.test.TestApplication         : Starting TestApplication on dwk with PID 26192 (/home/dwk/IdeaProjects/demo/target/classes started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 13:39:50.191  INFO 26192 --- [main] com.example.test.TestApplication         : No active profile set, falling back to default profiles: default
+2019-07-05 13:39:51.738  INFO 26192 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-05 13:39:51.777  INFO 26192 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-05 13:39:51.780  INFO 26192 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 13:39:51.892  INFO 26192 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-05 13:39:51.892  INFO 26192 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1594 ms
+2019-07-05 13:39:52.159  INFO 26192 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:39:52.397  INFO 26192 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-05 13:39:52.400  INFO 26192 --- [main] com.example.test.TestApplication         : Started TestApplication in 2.883 seconds (JVM running for 3.347)
+2019-07-05 13:39:58.770  INFO 26192 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 13:39:58.770  INFO 26192 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-05 13:39:58.777  INFO 26192 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-07-05 13:39:58.799  WARN 26192 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/json;charset=UTF-8' not supported]
+2019-07-05 13:40:51.976  INFO 26306 --- [main] com.example.test.TestApplicationTests    : Starting TestApplicationTests on dwk with PID 26306 (started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 13:40:51.978  INFO 26306 --- [main] com.example.test.TestApplicationTests    : No active profile set, falling back to default profiles: default
+2019-07-05 13:40:53.488  INFO 26306 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:40:53.762  INFO 26306 --- [main] com.example.test.TestApplicationTests    : Started TestApplicationTests in 2.163 seconds (JVM running for 2.959)
+2019-07-05 13:40:54.031  INFO 26306 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:40:57.327  INFO 26192 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:41:04.521  INFO 26364 --- [main] com.example.test.TestApplication         : Starting TestApplication on dwk with PID 26364 (/home/dwk/IdeaProjects/demo/target/classes started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 13:41:04.531  INFO 26364 --- [main] com.example.test.TestApplication         : No active profile set, falling back to default profiles: default
+2019-07-05 13:41:06.049  INFO 26364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-07-05 13:41:06.088  INFO 26364 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-07-05 13:41:06.089  INFO 26364 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-05 13:41:06.201  INFO 26364 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-07-05 13:41:06.202  INFO 26364 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1574 ms
+2019-07-05 13:41:06.465  INFO 26364 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-07-05 13:41:06.690  INFO 26364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-07-05 13:41:06.693  INFO 26364 --- [main] com.example.test.TestApplication         : Started TestApplication in 2.854 seconds (JVM running for 3.381)
+2019-07-05 13:41:14.387  INFO 26364 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-05 13:41:14.388  INFO 26364 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-07-05 13:41:14.398  INFO 26364 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-07-05 13:41:14.451  INFO 26364 --- [http-nio-8080-exec-2] com.example.test.ApiTestController       : /api/test param = <DeliverReport>
+</DeliverReport>
+2019-07-05 14:10:06.317  INFO 26364 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-07-05 16:40:12.883  INFO 31514 --- [main] com.example.test.TestApplication         : Starting TestApplication on dwk with PID 31514 (/home/dwk/IdeaProjects/demo/target/classes started by dwk in /home/dwk/IdeaProjects/demo)
+2019-07-05 16:40:12.898  INFO 31514 --- [main] com.example.test.TestApplication         : No active profile set, falling back to default profiles: default
